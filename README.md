@@ -9,7 +9,7 @@
 Gestor de portapapeles nativo, ultra-rápido y elegante para Linux (Wayland y X11), concebido y diseñado específicamente siguiendo las guías de diseño de **elementary OS 8 (Pantheon Desktop)**.
 
 <p align="center">
-  <img src="app-icon.png" width="128" height="128" alt="Zoma Clipboard Icon" />
+  <img src="assets/icon.png" width="128" height="128" alt="Zoma Clipboard Icon" />
 </p>
 
 Construido sobre una arquitectura moderna con **Tauri v2**, **Rust** y **Svelte 5 (Runes)**. Basado en el prototipo interactivo diseñado en **FigCraft**:  
